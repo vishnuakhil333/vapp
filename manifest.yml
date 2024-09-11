@@ -1,0 +1,4 @@
+---
+version: 1
+streamlit:
+  entrypoint: streamlit_app.py
