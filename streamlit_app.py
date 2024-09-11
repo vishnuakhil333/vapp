@@ -3,12 +3,12 @@ import snowflake.connector
 
 # Snowflake connection parameters
 snowflake_config = {
-    "account": "qtyhqdd-wcb18460",
-    "user": "VISHNUVARDHAN",
-    "password": "agCMH6gjvsJPFJd",
-    "database": "INITIAL_DB",
-    "schema": "PUBLIC",
-    "warehouse": "INITIAL_WAREHOUSE"
+    "account": "88888",
+    "user": "888888",
+    "password": "88888",
+    "database": "88888",
+    "schema": "88888",
+    "warehouse": "88888"
 }
 
 # Connect to Snowflake
